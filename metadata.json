@@ -1,0 +1,8 @@
+{
+  "name": "건양대학교 핵심역량 진단 포털",
+  "description": "대학 전체 및 학과별 핵심역량 진단 결과를 시각화하고 관리하는 데이터 대시보드 플랫폼입니다.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
